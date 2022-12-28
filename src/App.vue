@@ -10,6 +10,15 @@
             <option value="">Slect Sura</option>
           </select>
         </div>
+        <div class="flex-1">
+          <h3>Al Baqura</h3>
+          <p>Tho cow</p>
+        </div>
+        <div class="flex-1">
+          <select name="" id="">
+            <option value="">Slect Sura</option>
+          </select>
+        </div>
       </div>
     </div>
   </div>
